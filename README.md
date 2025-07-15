@@ -1,5 +1,6 @@
 # BoxKing
-**BoxKing** merupakan sebuah game yang diciptakan untuk platform VR (Virtual Reality) Meta Quest. Game ini bergenre simulasi yang nantinya player akan masuk ke dalam ring dan bertarung dengan AI.
+**Boxking** merupakan sebuah game yang diciptakan untuk platform VR (Virtual Reality) Meta Quest. Game ini bergenre simulasi yang nantinya player akan masuk ke dalam ring dan bertarung dengan AI.
+
 ---
 ## Fitur Utama
 - 1v1 dengan Bot yang terintegrasi dengan AI.
